@@ -27,11 +27,13 @@ El objetivo es llegar a un número fijado de puntos mediante el lanzamiento suce
 ### Campo de juego
 
 El campo de juego se traza (habitualmente con la navaja) sobre una zona acordada por los participantes. Debe tratarse de una zona de tierra algo dura donde se traza un cuadrado de aproximandamente 50 centímetros de lado y sus diagonales. En el cruce de las diagonales se clava la navaja. Los triangulos resultantes se numeran tal como aparece en la siguiente figura
+ 
 
+FIGURA por finalizar
 
 El lado de cuadrado más cercano al jugador debe estar sobre los cuatro metros (distancia consensuada por los jugadores), poniendo la señal correspondiente desde la que todos los jugadores lanzarán las perras. 
 
-FIGURA
+
 
 
 Cuando se va a clavar la navaja debe hacerse con cuidado porque dependiendo de la profundidad del clavado se puede caer con un golpe de la moneda o no. Lo ideal debe ser que al segundo o tercer golpe la navaja se derribe, este proceso influye en el tanteo de los respectivos jugadores. La navaja debe ser clavada con el filo hacia el contrario a la posición de tiro.
