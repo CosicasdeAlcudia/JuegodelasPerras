@@ -59,7 +59,7 @@ El jueves santo se compite formando grupos de parejas tanto femeninas como mascu
 
 El viernes Santo, es la competición oficial organizada por la Asociación de Vecinos. Se entregan trofeso a los vencedores en todas las modalidades. El acuerdo desde hace varios asos en competir a 10 puntos. También se decide por consenso si las tiradas son intercaladas o seguidas.
 
-Despues hay celebración y entrega de trofeos. [*Esto es sólo un ejemplo*][perras]
+Después hay celebración y entrega de trofeos. [*Esto es sólo un ejemplo*][perras]
 
 [perras]: https://www.youtube.com/watch?v=TDjNy8uaLvE
 
