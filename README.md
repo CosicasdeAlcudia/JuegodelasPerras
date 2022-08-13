@@ -40,7 +40,14 @@ Cuando se va a clavar la navaja debe hacerse con cuidado porque dependiendo de l
 - Si se toca la navaja se suman 10 puntos
 - Si se derriba la navaja se suman 11 puntos
 
-## Como 
+## Como se juega
+
+Cada jugador lanza dos monedas por tirada hasta llegar a un total prefijado por los jugadores que suele ser de 150 a 200 puntos. El que primero llega gana el juego.
+
+
+El jueves santo se compite formando grupos de parejas tanto femeninas como masculinas, este día  se juega la *combidá*, entre los participantes se acuerda como se paga porque hay veces que se juntan 10 o 12 parejas.
+
+
 
 
 
