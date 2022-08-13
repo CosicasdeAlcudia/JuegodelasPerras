@@ -9,9 +9,9 @@ En esta página describiremos para quien le pueda interesar un juego que perdur�
 
 ## Origenes
 
-En Alcudia de Monteagud desde hace muchisimos años, siempre por Semana Santa, los días Jueves y Viernes Santo, una vez cumplidos con los actos religioes (misa y procesión) reunidos en un lugar concreto, los habitantes del pueblo dedican parte de su tiempo al ocio, a este peculiar, entretenido y emocianoante juego llamado el *JUEGO DE LAS PERRAS*
+En Alcudia de Monteagud desde hace muchisimos años, siempre por [Semana Santa][semana], los días Jueves y Viernes Santo, una vez cumplidos con los actos religioes (misa y procesión) reunidos en un lugar concreto, los habitantes del pueblo dedican parte de su tiempo al ocio, a este peculiar, entretenido y emocianoante juego llamado el *JUEGO DE LAS PERRAS*
 
-
+[semana]: https://www.youtube.com/playlist?list=PLin5l648v24QFo90K1uLgqX9VjIxKtkYB
 ## Objetivo del juego
 
 El objetivo es llegar a un número fijado de puntos mediante el lanzamiento sucesivo 2 perras. Tradicionalmente se juega por parejas. Los puntos se obtienen por la acumulación del tanteo de la zona de campo de juego donde caigan las perras y por el derribo de la navaja en su caso.
