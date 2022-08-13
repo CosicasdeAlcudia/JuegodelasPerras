@@ -3,7 +3,7 @@
 
 # El Juego de las Perras 
 
-En esta página describiremos para quien le pueda interesar un juego que perdura desde hace más de un siglo en el municipio de [**Alcudia de Monteagud**][wiki] en la provincia de **Almería**. No existen normas escritas pero sus reglas son trasmitidas de forma oral en las generaciones de alcuzarros y alcuzarras. Este documento elaborado por *José Antonio López Montoro* facilitará que tradiciones como esta no se pierdan con el paso de los años y el avance de la tecnología
+En esta página describiremos para quien le pueda interesar un juego que perdura desde hace más de un siglo en el municipio de [**Alcudia de Monteagud**][wiki] en la provincia de **Almería**. No existen normas escritas pero sus reglas son trasmitidas de forma oral en las generaciones de alcuzarros y alcuzarras. Este documento elaborado por *José Antonio López Montoro* facilitará que tradiciones como esta no se pierdan con el paso de los años y el avance de la tecnología.
 
 [wiki]: https://es.wikipedia.org/wiki/Alcudia_de_Monteagud
 
@@ -16,7 +16,7 @@ En Alcudia de Monteagud desde hace muchisimos años, siempre por [Semana Santa][
 
 ## Objetivo del juego
 
-El objetivo es llegar a un número fijado de puntos mediante el lanzamiento sucesivo dos perras cada jugador. Los puntos se obtienen por la acumulación del tanteo de la zona de campo de juego donde caigan las perras y por el derribo de la navaja en su caso, incrementandose la puntuación. Existen diversos modos de juego que se explican más adelante.
+El objetivo es llegar a un número fijado de puntos mediante el lanzamiento sucesivo dos perras cada jugador. Los puntos se obtienen por la acumulación del tanteo de la zona de campo de juego donde caigan las perras y por el derribo de la navaja en su caso, incrementandose la puntuación.
 
 ## Material
 
